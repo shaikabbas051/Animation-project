@@ -1,0 +1,24 @@
+{
+  "name": "animation-css",
+  "version": "1.0.0",
+  "description": "Creating animations using pure css",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js -e html,js,css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaikabbas051/Animation-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaikabbas051/Animation-project/issues"
+  },
+  "homepage": "https://github.com/shaikabbas051/Animation-project#readme",
+  "dependencies": {
+    "nodemon": "^1.19.1",
+    "reload": "^3.0.1"
+  }
+}
